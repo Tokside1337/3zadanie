@@ -1,1 +1,1 @@
-
+ConsoleWriteLine("Привет мир");
